@@ -1,3 +1,3 @@
 # html-demo
 this is my first repository
-<br>Author- Sanika Patil
+<br>Author- Sanika Sampat Patil
